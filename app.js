@@ -13,7 +13,6 @@ const poll = require('./routes/poll');
 
 //Set public folder
 app.use(express.static(path.join(__dirname,'public')));
-
 //Body parser middleware
 app.use(bodyParser.json());
 app.unsubscribe(bodyParser.urlencoded({extended:false}));

@@ -44,7 +44,7 @@ const voteCounts = votes.reduce(
             animationEnabled: true,
             theme:'theme1',
             title: {
-                text: 'Vote Results'
+                text: 'Total Votes'+totalVotes
             },
             data:[
                 {
