@@ -15,7 +15,7 @@
     "express": "^4.17.1",
     "materialize-css": "^1.0.0-rc.2",
     "mongoose": "^5.9.22",
-    "pusher": "^3.0.1"
+    "pusher": "^5.1.3"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
